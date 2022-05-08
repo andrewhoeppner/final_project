@@ -13,4 +13,4 @@
 We have been communicating through Slack and arranged time outside of class to work on the project. 
 
 ### Machine Learning Model & Database Integration
-Our machine learning model is located in finalproject.ipynb and our datasets are 
+Our machine learning model is located in linear regression.ipynb and our datasets are loaded into the repository.
