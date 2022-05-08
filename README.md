@@ -14,3 +14,6 @@ We have been communicating through Slack and arranged time outside of class to w
 
 ### Machine Learning Model & Database Integration
 Our machine learning model is located in linear regression.ipynb and our datasets are loaded into the repository.
+
+![image](https://user-images.githubusercontent.com/96211484/167319541-a73532ec-5d9f-4e7f-863b-02f8a8d8f944.png)
+
