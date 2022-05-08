@@ -17,3 +17,6 @@ Our machine learning model is located in linear regression.ipynb and our dataset
 
 ![image](https://user-images.githubusercontent.com/96211484/167319541-a73532ec-5d9f-4e7f-863b-02f8a8d8f944.png)
 
+![image](https://user-images.githubusercontent.com/96211484/167319577-5b3fdf5d-ad94-44b2-ba77-190854231cee.png)
+
+
