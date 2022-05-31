@@ -51,7 +51,8 @@ Based on our analysis sea level is increasing every year, and by the next thousa
 
 ```
 
-X = pd.DataFrame(df, columns = ['world_population', 'global_surface_temp_anomaly(celsius)', 'antarctica_ice_mass_change', 'greenland_ice_mass_change', 'global_co2(in billion metric tons)', 'global_seasurface_temp_anomaly(celsius)'])
+X = pd.DataFrame(df, columns = ['world_population', 'global_surface_temp_anomaly(celsius)', 'antarctica_ice_mass_change', 
+            'greenland_ice_mass_change', 'global_co2(in billion metric tons)', 'global_seasurface_temp_anomaly(celsius)'])
 y = pd.DataFrame(df, columns=['adjusted_sea_level(in)'])
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
