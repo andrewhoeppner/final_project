@@ -10,6 +10,7 @@ The topic we chose to analyze is how the rise in sea levels have been affected b
 * SQL will be used to store, retrieve, manage and manipulate data
 * Tableau will be used to create data visualizations 
 https://public.tableau.com/app/profile/chace.daskalos/viz/RisingSeaLevelsVisuals/Story1?publish=yes
+https://public.tableau.com/app/profile/andrew6464/viz/final_project_16533646005780/Story1?publish=yes
 * Google Slides will be used to present everything
 https://docs.google.com/presentation/d/1C28iUiatFXmiYrv96hdG4Ypgk_fTbQ6fAfPpmc_o6hA/edit#slide=id.p                                   
 
