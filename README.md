@@ -49,7 +49,11 @@ We also used the correlation matrix to see the relationship between variables.
 ![image](images/correlation%20matrix.png)
 
 ## Conclusion:
-Based on our analysis sea level is increasing every year, and by the next thousand years the sea level will be increase by the 97%.
+Based on our analysis sea level is increasing every year, if nothing is done and Global Surface Temperature, Greenland Ice Mass Change and Global CO2 Emissions continue on this trend:
+    Year 2120 Sea Level from 2020: increase 11.59in
+	Year 2520 Sea Level from 2020: increase 4.89ft
+	Year 3000 Sea Level from 2020: increase 9.60ft
+
 
 ![image](images/future%20analysis%20part%201.png)
 ![image](images/future%20analysis%20part%202.png)
