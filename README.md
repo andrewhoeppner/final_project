@@ -49,7 +49,7 @@ We also used the correlation matrix to see the relationship between variables.
 ![image](images/correlation%20matrix.png)
 
 ## Conclusion:
-Based on our analysis sea level is increasing every year, and by the next thousand years the sea level will be increase by the 97%.
+Based on our analysis sea level is increasing every year, and by the next thousand years the sea level will be increase by 115.063 inches.
 
 ![image](images/future%20analysis%20part%201.png)
 ![image](images/future%20analysis%20part%202.png)
