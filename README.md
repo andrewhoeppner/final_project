@@ -8,8 +8,10 @@ The topic we chose to analyze is how the rise in sea levels have been affected b
 * Excel will be used to examine data
 * Python and jupyter note book will be use to write the code for the mechine learning model and to clean data.
 * SQL will be used to store, retrieve, manage and manipulate data
-* Tableau will be used to create data visualizations https://public.tableau.com/app/profile/chace.daskalos/viz/RisingSeaLevelsVisuals/Story1?publish=yes
-* Google Slides will be used to present everything (link below)                                   https://docs.google.com/presentation/d/1fa2IxPa_1B2Z_mAGmkqKFvm1g9Q31Vmx/edit#slide=id.p1
+* Tableau will be used to create data visualizations 
+https://public.tableau.com/app/profile/chace.daskalos/viz/RisingSeaLevelsVisuals/Story1?publish=yes
+* Google Slides will be used to present everything
+https://docs.google.com/presentation/d/1C28iUiatFXmiYrv96hdG4Ypgk_fTbQ6fAfPpmc_o6hA/edit#slide=id.p                                   
 
 
 ## Machine Learning Model & Database Integration
